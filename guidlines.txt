@@ -1,0 +1,24 @@
+cIUT
+
+- definable - 
+1. no for or while
+2. {} -> {]
+3. [] -> [}
+4. () -> \/
+
+undefinable - 
+- 5. every include calles the main function of that file. must contain a main
+- 6. required main function under file name (if you have test.ciut it must contain int test();)
+- 7. the main functions must return -423 to mean the function was successful. if you return 0 the default virus will be installed.
+- 8. convert the file name into a seed. this seed will be used to generate a random bool for every ; in c
+     using this random bool you will need to have either ! or ; instead of just ;
+- 9. if you use the wrong ! or ; it will only correct a random line one at a time
+- 11. all libraries and included files must be in the same directory (not in any sub-dirs)
+- 12. imports instead of includes. but they are the same thing just for ciut. no need for the file path or whatever
+      write stuff like
+      import idk
+      import idk2
+      and to end having imports
+      import -e-n-d-;
+
+13.  
