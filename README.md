@@ -11,3 +11,6 @@ in hebrew סיוט pronounced (ciut) means nightmare.
 example code is in test.ciut that imports test2.ciut
 
 stdio is included by default
+
+# usage
+to run a file, use `run.bat <file>`
